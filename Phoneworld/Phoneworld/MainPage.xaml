@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Phoneworld.MainPage"
+             BackgroundColor="White">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS="20, 40, 20, 20"
+                    Android="20, 20, 20, 20"
+                    WinPhone="20, 20, 20, 20" />
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="FillAndExpand"
+                     Orientation="Vertical"
+                     Spacing="15"  
+                     >
+            <Label TextColor="Black" Text="Dezimalzahl eingeben:" />
+            <Entry x:Name="phoneNumberText" Text="12345" />
+            <Button x:Name="translateButon" TextColor="White" BackgroundColor="MediumBlue" Text="Umwandeln" Clicked="OnTranslate" />
+            <Button x:Name="callButton" TextColor="White" BackgroundColor="MediumBlue" Text="Anrufen" IsEnabled="false" Clicked="OnCall" />
+            <Button x:Name="callHistoryButton" TextColor="White" BackgroundColor="MediumBlue" Text="History" IsEnabled="false"
+          Clicked="OnCallHistory" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

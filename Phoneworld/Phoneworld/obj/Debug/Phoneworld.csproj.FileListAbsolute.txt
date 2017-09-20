@@ -1,0 +1,17 @@
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Phoneworld.dll
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Phoneworld.pdb
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\obj\Debug\Phoneworld.csprojResolveAssemblyReference.cache
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\obj\Debug\Phoneworld.csproj.CoreCompileInputs.cache
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\obj\Debug\Phoneworld.MainPage.xaml.g.cs
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\obj\Debug\Phoneworld.App.xaml.g.cs
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\obj\Debug\Phoneworld.dll
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\obj\Debug\Phoneworld.pdb
+C:\Users\tre\Phoneworld\Phoneworld\Phoneworld\Phoneworld\obj\Debug\Phoneworld.CallHistoryPage.xaml.g.cs
